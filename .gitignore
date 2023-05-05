@@ -1,0 +1,4 @@
+Freeze\ Files/**/*
+Bounces/**/*
+*.nosync
+**/Alternatives/**/*
